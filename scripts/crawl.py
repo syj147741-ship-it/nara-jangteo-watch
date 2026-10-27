@@ -67,13 +67,18 @@ class Config:
     operation: str
     num_of_rows: int
     max_pages: int
+    region_enabled: bool = False
+    region_keywords: list[str] = None  # type: ignore[assignment]
 
     @classmethod
     def load(cls, path: Path) -> "Config":
         with path.open(encoding="utf-8") as f:
             raw = json.load(f)
         api = raw.get("api", {})
+        region = raw.get("region_filter", {}) or {}
         return cls(
+            region_enabled=bool(region.get("enabled", False)),
+            region_keywords=[k.strip() for k in region.get("keywords", []) if k and k.strip()],
             keywords=[k.strip() for k in raw.get("keywords", []) if k and k.strip()],
             exclude_keywords=[k.strip() for k in raw.get("exclude_keywords", []) if k and k.strip()],
             service_divs=[v.strip() for v in raw.get("service_divs", []) if v and v.strip()],
@@ -118,7 +123,21 @@ def fetch_page(
     if bid_ntce_nm:
         params["bidNtceNm"] = bid_ntce_nm
 
-    resp = requests.get(url, params=params, timeout=30)
+    # 공공데이터포털은 가끔 응답이 느려서, 시간 초과·연결 오류는 최대 3번까지 다시 시도한다.
+    resp = None
+    for attempt in range(1, 4):
+        try:
+            resp = requests.get(url, params=params, timeout=60)
+            if resp.status_code >= 500 and attempt < 3:
+                print(f"(서버 오류 {resp.status_code}, {attempt}번째 재시도) ", end="", flush=True)
+                time.sleep(5 * attempt)
+                continue
+            break
+        except (requests.Timeout, requests.ConnectionError) as e:
+            if attempt == 3:
+                raise
+            print(f"(응답 지연, {attempt}번째 재시도) ", end="", flush=True)
+            time.sleep(5 * attempt)
 
     if resp.status_code == 401:
         raise RuntimeError(
@@ -323,7 +342,11 @@ def main() -> int:
     #  - 키워드가 없으면 단일 호출 (전체)
     #  - match_mode=any 이면 키워드별로 API 순회 후 병합 (부분검색 OR)
     #  - match_mode=all 이면 첫 키워드로만 API 조회 후 로컬에서 나머지도 포함되는지 필터
-    if not cfg.keywords:
+    if cfg.region_enabled:
+        # 지역 모드: 그날 올라온 용역 공고를 전부 받아 온 뒤, 아래에서 강원권만 직접 걸러낸다.
+        print(f"지역 필터 켜짐: 발주기관/공고명에 {cfg.region_keywords} 가 들어간 공고만 저장")
+        search_keywords = [""]
+    elif not cfg.keywords:
         search_keywords = [""]
     elif cfg.match_mode == "all":
         search_keywords = [cfg.keywords[0]]
@@ -357,9 +380,16 @@ def main() -> int:
         if not passes_service_div(raw, cfg):
             skipped_div += 1
             continue
-        if cfg.match_mode == "all" and cfg.keywords and not all_keywords_match(title, cfg):
+        if not cfg.region_enabled and cfg.match_mode == "all" and cfg.keywords and not all_keywords_match(title, cfg):
             continue
-        filtered.append(normalize_item(raw))
+        item = normalize_item(raw)
+        if cfg.region_enabled:
+            haystack = " ".join([item["ntceInsttNm"], item["dminsttNm"], item["bidNtceNm"]])
+            hit = next((kw for kw in cfg.region_keywords if kw in haystack), None)
+            if hit is None:
+                continue
+            item["regionMatch"] = hit
+        filtered.append(item)
 
     if cfg.service_divs:
         print(f"용역구분 필터 제외: {skipped_div}건")
