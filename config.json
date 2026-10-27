@@ -23,21 +23,32 @@
     "의료기기",
     "헬스케어"
   ],
-  "exclude_keywords": [
-    "공사",
-    "감리",
-    "실시설계",
-    "건축설계",
-    "철거",
-    "청소",
-    "경비",
-    "소방",
-    "도로",
-    "하수",
-    "토목",
-    "조경"
-  ],
+  "exclude_keywords": [],
   "service_divs": ["일반용역", "기술용역"],
+  "region_filter": {
+    "enabled": true,
+    "keywords": [
+      "강원",
+      "원주",
+      "춘천",
+      "강릉",
+      "속초",
+      "태백",
+      "삼척",
+      "홍천",
+      "횡성",
+      "영월",
+      "평창",
+      "정선",
+      "철원",
+      "화천",
+      "양구",
+      "양양",
+      "상지대",
+      "건강보험심사평가원",
+      "한국광해광업공단"
+    ]
+  },
   "lookback_days": 2,
   "keep_days": 60,
   "match_mode": "any",
@@ -56,5 +67,5 @@
     "num_of_rows": 500,
     "max_pages": 20
   },
-  "comment": "keywords: 공고명에 포함되어야 하는 단어 목록(any는 키워드별로 검색해 합침). exclude_keywords: 공고명에 포함되면 제외. service_divs: 용역구분 화이트리스트. relevance_filter: LLM 관련성 평가(현재 꺼짐). lookback_days=2는 실행이 하루 실패해도 놓치지 않도록 겹치게 조회."
+  "comment": "region_filter.enabled=true 이면 디자인 키워드와 상관없이 그날 올라온 용역 공고를 전부 받아 발주기관·공고명에 region_filter.keywords 가 들어간 공고만 저장한다(지역 모드). false 로 바꾸면 keywords 로 검색하는 원래 방식으로 돌아간다. keywords 는 지역 모드에서도 대시보드의 키워드 표시에 쓰인다. lookback_days=2는 실행이 하루 실패해도 놓치지 않도록 겹치게 조회."
 }
