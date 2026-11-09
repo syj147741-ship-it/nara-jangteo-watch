@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:38:40+09:00",
+  "generated_at": "2026-11-09T11:53:51+09:00",
   "config": {
     "keywords": [
       "디자인",
@@ -40,325 +40,12 @@
     }
   },
   "stats": {
-    "open": 67,
-    "closing_soon": 109,
-    "closed": 174,
-    "total": 350
+    "open": 69,
+    "closing_soon": 111,
+    "closed": 184,
+    "total": 364
   },
   "closing_soon": [
-    {
-      "bidNtceNo": "R26BK01786729",
-      "bidNtceOrd": "001",
-      "bidNtceNm": "[앵커사업 1-2 원주] 인프라 관리 디지털트윈 기반 MR 플랫폼 설계 및 개발",
-      "ntceInsttNm": "한라대학교",
-      "ntceInsttCd": "7003629",
-      "dminsttNm": "한라대학교",
-      "dminsttCd": "7003629",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "일반경쟁",
-      "ntceKindNm": "변경공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-10-26 17:29:25",
-      "bidBeginDt": "2026-10-26 18:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "52000000",
-      "presmptPrce": "47272727",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786729&bidPbancOrd=001",
-      "ntceInsttOfclNm": "김한슬",
-      "ntceInsttOfclTelNo": "7601169",
-      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
-      "regionMatch": "원주",
-      "first_seen_date": "2026-10-27",
-      "last_seen_date": "2026-10-28",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01792747",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "강원LRS공유대학 운영체계 고도화 연구 용역",
-      "ntceInsttNm": "강원대학교 산학협력단",
-      "ntceInsttCd": "Z010852",
-      "dminsttNm": "강원대학교 산학협력단",
-      "dminsttCd": "Z010852",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "일반경쟁",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-10-27 09:53:33",
-      "bidBeginDt": "2026-11-03 10:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "99500000",
-      "presmptPrce": "90454545",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792747&bidPbancOrd=000",
-      "ntceInsttOfclNm": "김달샘",
-      "ntceInsttOfclTelNo": "033-250-7547",
-      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-10-27",
-      "last_seen_date": "2026-10-28",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01797502",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "2026년 보건의료 선진제도 학습을 위한 해외 우수기관 단기연수 용역",
-      "ntceInsttNm": "건강보험심사평가원",
-      "ntceInsttCd": "B551182",
-      "dminsttNm": "건강보험심사평가원",
-      "dminsttCd": "B551182",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "제한경쟁",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-10-29 15:31:26",
-      "bidBeginDt": "2026-10-29 20:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "225146210",
-      "presmptPrce": "204678373",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797502&bidPbancOrd=000",
-      "ntceInsttOfclNm": "전경화",
-      "ntceInsttOfclTelNo": "033-739-2618",
-      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
-      "regionMatch": "건강보험심사평가원",
-      "first_seen_date": "2026-10-30",
-      "last_seen_date": "2026-10-30",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01803090",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "2026~2027 겨울철 도로제설작업용 장비(덤프트럭) 임차용역",
-      "ntceInsttNm": "강원특별자치도 고성군",
-      "ntceInsttCd": "4341000",
-      "dminsttNm": "강원특별자치도 고성군",
-      "dminsttCd": "4341000",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "수의계약",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-02 14:52:07",
-      "bidBeginDt": "2026-11-02 18:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "31617000",
-      "presmptPrce": "28742727",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803090&bidPbancOrd=000",
-      "ntceInsttOfclNm": "신선영",
-      "ntceInsttOfclTelNo": "033-680-3743",
-      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-04",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01803306",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "2026~2027 겨울철 도로제설작업용 장비(굴삭기) 임차용역",
-      "ntceInsttNm": "강원특별자치도 고성군",
-      "ntceInsttCd": "4341000",
-      "dminsttNm": "강원특별자치도 고성군",
-      "dminsttCd": "4341000",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "수의계약",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-02 14:53:09",
-      "bidBeginDt": "2026-11-02 18:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "32226000",
-      "presmptPrce": "29296364",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803306&bidPbancOrd=000",
-      "ntceInsttOfclNm": "신선영",
-      "ntceInsttOfclTelNo": "033-680-3743",
-      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-04",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01804326",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "[긴급]2026~2027년 계양구 동절기 주요도로 제설작업 용역",
-      "ntceInsttNm": "인천광역시 계양구",
-      "ntceInsttCd": "3550000",
-      "dminsttNm": "인천광역시 계양구",
-      "dminsttCd": "3550000",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "제한경쟁",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-02 18:12:19",
-      "bidBeginDt": "2026-11-03 10:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "389235000",
-      "presmptPrce": "353850000",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804326&bidPbancOrd=000",
-      "ntceInsttOfclNm": "정지용",
-      "ntceInsttOfclTelNo": "032-450-5164",
-      "sucsfbidMthdNm": "적격심사제-관리규정외 수기심사(총점입력)",
-      "regionMatch": "양구",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-04",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01805736",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "2026년 어린이 보호구역 실태조사 및 개선계획 수립 용역",
-      "ntceInsttNm": "강원특별자치도 강릉시",
-      "ntceInsttCd": "4201000",
-      "dminsttNm": "강원특별자치도 강릉시",
-      "dminsttCd": "4201000",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "수의계약",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "기술용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-03 09:47:59",
-      "bidBeginDt": "2026-11-05 10:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "67900000",
-      "presmptPrce": "61727273",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805736&bidPbancOrd=000",
-      "ntceInsttOfclNm": "안다해",
-      "ntceInsttOfclTelNo": "033-640-5161",
-      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-04",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01805990",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "군도5호선 도시관리계획 결정(변경)및 실시설계 용역",
-      "ntceInsttNm": "강원특별자치도 삼척시",
-      "ntceInsttCd": "4241000",
-      "dminsttNm": "강원특별자치도 삼척시",
-      "dminsttCd": "4241000",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "수의계약",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "기술용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-03 10:26:44",
-      "bidBeginDt": "2026-11-05 10:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "66990000",
-      "presmptPrce": "60900000",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805990&bidPbancOrd=000",
-      "ntceInsttOfclNm": "이병민",
-      "ntceInsttOfclTelNo": "033-570-3272",
-      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-04",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01807406",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "연곡3,4처리분구 하수관로 정비사업 기본 및 실시설계용역(가격입찰 후 PQ)",
-      "ntceInsttNm": "강원특별자치도 강릉시 상하수도사업소",
-      "ntceInsttCd": "4201031",
-      "dminsttNm": "강원특별자치도 강릉시 상하수도사업소",
-      "dminsttCd": "4201031",
-      "bidMethdNm": "전자입찰",
-      "cntrctCnclsMthdNm": "일반경쟁",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "기술용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-03 19:00:21",
-      "bidBeginDt": "2026-11-05 10:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "1080800000",
-      "presmptPrce": "982545455",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807406&bidPbancOrd=000",
-      "ntceInsttOfclNm": "지인숙",
-      "ntceInsttOfclTelNo": "033-640-5484",
-      "sucsfbidMthdNm": "적격심사제-추정가격이 10억원 미만 5억원 이상인 P.Q 대상 기술용역의 평가기준(사후PQ)",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-05",
-      "matched_keywords": [],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
-    {
-      "bidNtceNo": "R26BK01815492",
-      "bidNtceOrd": "000",
-      "bidNtceNm": "2026 대한민국 정부박람회 강원특별자치도 전시관 설치운영 용역",
-      "ntceInsttNm": "강원특별자치도",
-      "ntceInsttCd": "6530000",
-      "dminsttNm": "강원특별자치도",
-      "dminsttCd": "6530000",
-      "bidMethdNm": "전자시담",
-      "cntrctCnclsMthdNm": "수의계약",
-      "ntceKindNm": "등록공고",
-      "bsnsDivNm": "",
-      "srvceDivNm": "일반용역",
-      "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-06 15:52:31",
-      "bidBeginDt": "2026-11-09 09:00:00",
-      "bidClseDt": "2026-11-09 10:00:00",
-      "opengDt": "2026-11-09 11:00:00",
-      "asignBdgtAmt": "40000000",
-      "presmptPrce": "36363636",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01815492&bidPbancOrd=000",
-      "ntceInsttOfclNm": "이종묵",
-      "ntceInsttOfclTelNo": "033-249-2890",
-      "sucsfbidMthdNm": "수의시담-수의시담",
-      "regionMatch": "강원",
-      "first_seen_date": "2026-11-07",
-      "last_seen_date": "2026-11-08",
-      "matched_keywords": [
-        "전시",
-        "박람회"
-      ],
-      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
-      "_hours_remaining": 22.4
-    },
     {
       "bidNtceNo": "R26BK01793479",
       "bidNtceOrd": "000",
@@ -389,7 +76,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
-      "_hours_remaining": 24.4
+      "_hours_remaining": 0.1
     },
     {
       "bidNtceNo": "R26BK01801853",
@@ -420,7 +107,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
-      "_hours_remaining": 24.4
+      "_hours_remaining": 0.1
     },
     {
       "bidNtceNo": "R26BK01807833",
@@ -451,7 +138,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
-      "_hours_remaining": 24.4
+      "_hours_remaining": 0.1
     },
     {
       "bidNtceNo": "R26BK01815511",
@@ -482,7 +169,69 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
-      "_hours_remaining": 24.4
+      "_hours_remaining": 0.1
+    },
+    {
+      "bidNtceNo": "R26BK01816632",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026년 재해예방사업(덕거) 감리용역",
+      "ntceInsttNm": "산림청 동부지방산림청 평창국유림관리소",
+      "ntceInsttCd": "1400448",
+      "dminsttNm": "산림청 동부지방산림청 평창국유림관리소",
+      "dminsttCd": "1400448",
+      "bidMethdNm": "전자시담",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 10:48:35",
+      "bidBeginDt": "2026-11-09 11:00:00",
+      "bidClseDt": "2026-11-09 12:00:00",
+      "opengDt": "2026-11-09 13:00:00",
+      "asignBdgtAmt": "3533000",
+      "presmptPrce": "3211818",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816632&bidPbancOrd=000",
+      "ntceInsttOfclNm": "조은애",
+      "ntceInsttOfclTelNo": "033-330-4011",
+      "sucsfbidMthdNm": "수의시담-수의시담",
+      "regionMatch": "평창",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
+      "_hours_remaining": 0.1
+    },
+    {
+      "bidNtceNo": "R26BK01816887",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026년 재해예방사업(덕거) 기술지도용역",
+      "ntceInsttNm": "산림청 동부지방산림청 평창국유림관리소",
+      "ntceInsttCd": "1400448",
+      "dminsttNm": "산림청 동부지방산림청 평창국유림관리소",
+      "dminsttCd": "1400448",
+      "bidMethdNm": "전자시담",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 10:54:05",
+      "bidBeginDt": "2026-11-09 11:00:00",
+      "bidClseDt": "2026-11-09 12:00:00",
+      "opengDt": "2026-11-09 13:00:00",
+      "asignBdgtAmt": "396000",
+      "presmptPrce": "360000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816887&bidPbancOrd=000",
+      "ntceInsttOfclNm": "조은애",
+      "ntceInsttOfclTelNo": "033-330-4011",
+      "sucsfbidMthdNm": "수의시담-수의시담",
+      "regionMatch": "평창",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T12:00:00+09:00",
+      "_hours_remaining": 0.1
     },
     {
       "bidNtceNo": "R26BK01806125",
@@ -513,7 +262,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T14:00:00+09:00",
-      "_hours_remaining": 26.4
+      "_hours_remaining": 2.1
     },
     {
       "bidNtceNo": "R26BK01806161",
@@ -544,7 +293,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T14:00:00+09:00",
-      "_hours_remaining": 26.4
+      "_hours_remaining": 2.1
     },
     {
       "bidNtceNo": "R26BK01806217",
@@ -575,7 +324,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T14:00:00+09:00",
-      "_hours_remaining": 26.4
+      "_hours_remaining": 2.1
     },
     {
       "bidNtceNo": "R26BK01793552",
@@ -606,7 +355,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T15:00:00+09:00",
-      "_hours_remaining": 27.4
+      "_hours_remaining": 3.1
     },
     {
       "bidNtceNo": "R26BK01806048",
@@ -637,7 +386,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T15:00:00+09:00",
-      "_hours_remaining": 27.4
+      "_hours_remaining": 3.1
     },
     {
       "bidNtceNo": "R26BK01806090",
@@ -668,7 +417,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T15:00:00+09:00",
-      "_hours_remaining": 27.4
+      "_hours_remaining": 3.1
     },
     {
       "bidNtceNo": "R26BK01808019",
@@ -699,7 +448,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T15:00:00+09:00",
-      "_hours_remaining": 27.4
+      "_hours_remaining": 3.1
     },
     {
       "bidNtceNo": "R26BK01795497",
@@ -730,7 +479,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T16:00:00+09:00",
-      "_hours_remaining": 28.4
+      "_hours_remaining": 4.1
     },
     {
       "bidNtceNo": "R26BK01793567",
@@ -761,7 +510,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T16:30:00+09:00",
-      "_hours_remaining": 28.9
+      "_hours_remaining": 4.6
     },
     {
       "bidNtceNo": "R26BK01793474",
@@ -792,7 +541,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-09T16:30:00+09:00",
-      "_hours_remaining": 28.9
+      "_hours_remaining": 4.6
     },
     {
       "bidNtceNo": "R26BK01789244",
@@ -824,7 +573,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01792982",
@@ -856,7 +605,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01792571",
@@ -888,7 +637,7 @@
         "홈페이지"
       ],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01789632",
@@ -920,7 +669,7 @@
         "홈페이지"
       ],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01795397",
@@ -951,7 +700,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01794977",
@@ -982,7 +731,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01792755",
@@ -1013,7 +762,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01797795",
@@ -1044,7 +793,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01799343",
@@ -1075,7 +824,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01800328",
@@ -1106,7 +855,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01802532",
@@ -1137,7 +886,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01803594",
@@ -1168,7 +917,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01804936",
@@ -1199,7 +948,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01803158",
@@ -1230,7 +979,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01804965",
@@ -1261,7 +1010,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01806367",
@@ -1292,7 +1041,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01805570",
@@ -1323,7 +1072,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01807794",
@@ -1354,7 +1103,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01806351",
@@ -1385,7 +1134,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01807583",
@@ -1416,7 +1165,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01804664",
@@ -1447,7 +1196,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01803219",
@@ -1478,7 +1227,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810408",
@@ -1509,7 +1258,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810482",
@@ -1540,7 +1289,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810606",
@@ -1571,7 +1320,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810893",
@@ -1602,11 +1351,11 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01809673",
-      "bidNtceOrd": "001",
+      "bidNtceOrd": "002",
       "bidNtceNm": "삼척번개시장 이전 조성사업 폐수처리시설 설치 기본 및 실시설계용역",
       "ntceInsttNm": "강원특별자치도 삼척시",
       "ntceInsttCd": "4241000",
@@ -1614,26 +1363,26 @@
       "dminsttCd": "4241000",
       "bidMethdNm": "전자입찰",
       "cntrctCnclsMthdNm": "제한경쟁",
-      "ntceKindNm": "변경공고",
+      "ntceKindNm": "취소공고",
       "bsnsDivNm": "",
       "srvceDivNm": "기술용역",
       "ppswGnrlSrvceYn": "N",
-      "bidNtceDt": "2026-11-04 14:52:49",
+      "bidNtceDt": "2026-11-09 09:27:41",
       "bidBeginDt": "2026-11-06 10:00:00",
       "bidClseDt": "2026-11-10 10:00:00",
       "opengDt": "2026-11-10 11:00:00",
       "asignBdgtAmt": "165242000",
       "presmptPrce": "150220000",
-      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01809673&bidPbancOrd=001",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01809673&bidPbancOrd=002",
       "ntceInsttOfclNm": "이병민",
       "ntceInsttOfclTelNo": "033-570-3272",
       "sucsfbidMthdNm": "적격심사제-추정가격이 2억원 미만 1억원 이상인 P.Q비대상 기술용역의 평가기준",
       "regionMatch": "강원",
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01809807",
@@ -1664,7 +1413,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01803655",
@@ -1695,7 +1444,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810516",
@@ -1726,7 +1475,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T10:00:00+09:00",
-      "_hours_remaining": 46.4
+      "_hours_remaining": 22.1
     },
     {
       "bidNtceNo": "R26BK01810609",
@@ -1757,7 +1506,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T12:00:00+09:00",
-      "_hours_remaining": 48.4
+      "_hours_remaining": 24.1
     },
     {
       "bidNtceNo": "R26BK01808830",
@@ -1788,7 +1537,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T14:00:00+09:00",
-      "_hours_remaining": 50.4
+      "_hours_remaining": 26.1
     },
     {
       "bidNtceNo": "R26BK01808940",
@@ -1819,7 +1568,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T14:00:00+09:00",
-      "_hours_remaining": 50.4
+      "_hours_remaining": 26.1
     },
     {
       "bidNtceNo": "R26BK01809002",
@@ -1850,7 +1599,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T14:00:00+09:00",
-      "_hours_remaining": 50.4
+      "_hours_remaining": 26.1
     },
     {
       "bidNtceNo": "R26BK01809532",
@@ -1881,7 +1630,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-10T14:00:00+09:00",
-      "_hours_remaining": 50.4
+      "_hours_remaining": 26.1
     },
     {
       "bidNtceNo": "R26BK01805773",
@@ -1912,7 +1661,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01807941",
@@ -1943,7 +1692,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01802559",
@@ -1974,7 +1723,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01810800",
@@ -2005,7 +1754,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01811242",
@@ -2036,7 +1785,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01811852",
@@ -2067,7 +1816,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01806393",
@@ -2098,7 +1847,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01811937",
@@ -2129,7 +1878,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01812246",
@@ -2160,7 +1909,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01806860",
@@ -2191,7 +1940,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01812310",
@@ -2222,7 +1971,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01813523",
@@ -2253,7 +2002,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01813738",
@@ -2284,7 +2033,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01813636",
@@ -2315,7 +2064,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01813731",
@@ -2346,7 +2095,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T10:00:00+09:00",
-      "_hours_remaining": 70.4
+      "_hours_remaining": 46.1
     },
     {
       "bidNtceNo": "R26BK01810869",
@@ -2377,7 +2126,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T11:00:00+09:00",
-      "_hours_remaining": 71.4
+      "_hours_remaining": 47.1
     },
     {
       "bidNtceNo": "R26BK01793604",
@@ -2409,7 +2158,7 @@
         "홈페이지"
       ],
       "_bidClseDt_iso": "2026-11-11T12:00:00+09:00",
-      "_hours_remaining": 72.4
+      "_hours_remaining": 48.1
     },
     {
       "bidNtceNo": "R26BK01811847",
@@ -2440,7 +2189,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T12:00:00+09:00",
-      "_hours_remaining": 72.4
+      "_hours_remaining": 48.1
     },
     {
       "bidNtceNo": "R26BK01803896",
@@ -2471,7 +2220,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T14:00:00+09:00",
-      "_hours_remaining": 74.4
+      "_hours_remaining": 50.1
     },
     {
       "bidNtceNo": "R26BK01811423",
@@ -2502,7 +2251,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T14:00:00+09:00",
-      "_hours_remaining": 74.4
+      "_hours_remaining": 50.1
     },
     {
       "bidNtceNo": "R26BK01811345",
@@ -2533,7 +2282,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T14:00:00+09:00",
-      "_hours_remaining": 74.4
+      "_hours_remaining": 50.1
     },
     {
       "bidNtceNo": "R26BK01811384",
@@ -2564,7 +2313,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T14:00:00+09:00",
-      "_hours_remaining": 74.4
+      "_hours_remaining": 50.1
     },
     {
       "bidNtceNo": "R26BK01813327",
@@ -2595,7 +2344,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T14:00:00+09:00",
-      "_hours_remaining": 74.4
+      "_hours_remaining": 50.1
     },
     {
       "bidNtceNo": "R26BK01803721",
@@ -2626,7 +2375,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-11T15:00:00+09:00",
-      "_hours_remaining": 75.4
+      "_hours_remaining": 51.1
     },
     {
       "bidNtceNo": "R26BK01798806",
@@ -2657,7 +2406,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01806541",
@@ -2688,7 +2437,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01808326",
@@ -2719,7 +2468,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01807836",
@@ -2750,7 +2499,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01808187",
@@ -2781,7 +2530,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01810380",
@@ -2812,7 +2561,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01810618",
@@ -2843,7 +2592,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01813795",
@@ -2874,7 +2623,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01814221",
@@ -2905,7 +2654,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T10:00:00+09:00",
-      "_hours_remaining": 94.4
+      "_hours_remaining": 70.1
     },
     {
       "bidNtceNo": "R26BK01814418",
@@ -2936,7 +2685,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01814917",
@@ -2967,7 +2716,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01815611",
@@ -2998,7 +2747,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01815631",
@@ -3029,7 +2778,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01815648",
@@ -3060,7 +2809,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01815673",
@@ -3091,7 +2840,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01815681",
@@ -3122,7 +2871,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T14:00:00+09:00",
-      "_hours_remaining": 98.4
+      "_hours_remaining": 74.1
     },
     {
       "bidNtceNo": "R26BK01812278",
@@ -3153,7 +2902,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T16:00:00+09:00",
-      "_hours_remaining": 100.4
+      "_hours_remaining": 76.1
     },
     {
       "bidNtceNo": "R26BK01815318",
@@ -3184,7 +2933,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T16:00:00+09:00",
-      "_hours_remaining": 100.4
+      "_hours_remaining": 76.1
     },
     {
       "bidNtceNo": "R26BK01815506",
@@ -3215,7 +2964,7 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-12T16:00:00+09:00",
-      "_hours_remaining": 100.4
+      "_hours_remaining": 76.1
     },
     {
       "bidNtceNo": "R26BK01802924",
@@ -3246,7 +2995,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
-      "_hours_remaining": 118.4
+      "_hours_remaining": 94.1
     },
     {
       "bidNtceNo": "R26BK01807496",
@@ -3277,7 +3026,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
-      "_hours_remaining": 118.4
+      "_hours_remaining": 94.1
     },
     {
       "bidNtceNo": "R26BK01807536",
@@ -3308,7 +3057,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
-      "_hours_remaining": 118.4
+      "_hours_remaining": 94.1
     },
     {
       "bidNtceNo": "R26BK01805828",
@@ -3339,7 +3088,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
-      "_hours_remaining": 118.4
+      "_hours_remaining": 94.1
     },
     {
       "bidNtceNo": "R26BK01814969",
@@ -3370,7 +3119,100 @@
       "last_seen_date": "2026-11-08",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
-      "_hours_remaining": 118.4
+      "_hours_remaining": 94.1
+    },
+    {
+      "bidNtceNo": "R26BK01816273",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "안인화력 진입로 확장공사 편입지장물(안인진리109-1 외 1개소) 철거공사 폐기물처리 용역",
+      "ntceInsttNm": "강원특별자치도 강릉시",
+      "ntceInsttCd": "4201000",
+      "dminsttNm": "강원특별자치도 강릉시",
+      "dminsttCd": "4201000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 08:48:40",
+      "bidBeginDt": "2026-11-10 10:00:00",
+      "bidClseDt": "2026-11-13 10:00:00",
+      "opengDt": "2026-11-13 11:00:00",
+      "asignBdgtAmt": "75800000",
+      "presmptPrce": "68909091",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816273&bidPbancOrd=000",
+      "ntceInsttOfclNm": "엄예슬",
+      "ntceInsttOfclTelNo": "033-640-5462",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
+      "_hours_remaining": 94.1
+    },
+    {
+      "bidNtceNo": "R26BK01816293",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "강릉시 첨단산업 발굴 연구용역",
+      "ntceInsttNm": "강원특별자치도 강릉시",
+      "ntceInsttCd": "4201000",
+      "dminsttNm": "강원특별자치도 강릉시",
+      "dminsttCd": "4201000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 08:50:16",
+      "bidBeginDt": "2026-11-10 10:00:00",
+      "bidClseDt": "2026-11-13 10:00:00",
+      "opengDt": "2026-11-13 11:00:00",
+      "asignBdgtAmt": "50000000",
+      "presmptPrce": "45454545",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816293&bidPbancOrd=000",
+      "ntceInsttOfclNm": "엄예슬",
+      "ntceInsttOfclTelNo": "033-640-5462",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
+      "_hours_remaining": 94.1
+    },
+    {
+      "bidNtceNo": "R26BK01817111",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "지방도404호선 귀래지구 회전교차로 설치공사 폐기물처리용역",
+      "ntceInsttNm": "강원특별자치도 도로관리사업소",
+      "ntceInsttCd": "6530357",
+      "dminsttNm": "강원특별자치도 도로관리사업소",
+      "dminsttCd": "6530357",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 11:31:54",
+      "bidBeginDt": "2026-11-10 10:00:00",
+      "bidClseDt": "2026-11-13 10:00:00",
+      "opengDt": "2026-11-13 11:00:00",
+      "asignBdgtAmt": "23958000",
+      "presmptPrce": "21780000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01817111&bidPbancOrd=000",
+      "ntceInsttOfclNm": "김가영",
+      "ntceInsttOfclTelNo": "033-737-6847",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-13T10:00:00+09:00",
+      "_hours_remaining": 94.1
     },
     {
       "bidNtceNo": "R26BK01812003",
@@ -3401,7 +3243,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T12:00:00+09:00",
-      "_hours_remaining": 120.4
+      "_hours_remaining": 96.1
     },
     {
       "bidNtceNo": "R26BK01813270",
@@ -3432,10 +3274,8 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-13T14:00:00+09:00",
-      "_hours_remaining": 122.4
-    }
-  ],
-  "open": [
+      "_hours_remaining": 98.1
+    },
     {
       "bidNtceNo": "R26BK01806277",
       "bidNtceOrd": "000",
@@ -3465,7 +3305,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
     {
       "bidNtceNo": "R26BK01806908",
@@ -3496,7 +3336,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
     {
       "bidNtceNo": "R26BK01807858",
@@ -3527,7 +3367,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
     {
       "bidNtceNo": "R26BK01807711",
@@ -3560,7 +3400,7 @@
         "디자인"
       ],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
     {
       "bidNtceNo": "R26BK01812006",
@@ -3593,7 +3433,7 @@
         "디자인"
       ],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
     {
       "bidNtceNo": "R26BK01813254",
@@ -3627,8 +3467,41 @@
         "UX"
       ],
       "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
-      "_hours_remaining": 190.4
+      "_hours_remaining": 166.1
     },
+    {
+      "bidNtceNo": "R26BK01816524",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "삼척번개시장 이전 조성사업 폐수처리시설 설치 기본 및 실시설계용역",
+      "ntceInsttNm": "강원특별자치도 삼척시",
+      "ntceInsttCd": "4241000",
+      "dminsttNm": "강원특별자치도 삼척시",
+      "dminsttCd": "4241000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 11:35:58",
+      "bidBeginDt": "2026-11-12 10:00:00",
+      "bidClseDt": "2026-11-16 10:00:00",
+      "opengDt": "2026-11-16 11:00:00",
+      "asignBdgtAmt": "165242000",
+      "presmptPrce": "150220000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816524&bidPbancOrd=000",
+      "ntceInsttOfclNm": "이병민",
+      "ntceInsttOfclTelNo": "033-570-3272",
+      "sucsfbidMthdNm": "적격심사제-추정가격이 2억원 미만 1억원 이상인 P.Q비대상 기술용역의 평가기준",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-16T10:00:00+09:00",
+      "_hours_remaining": 166.1
+    }
+  ],
+  "open": [
     {
       "bidNtceNo": "R26BK01806749",
       "bidNtceOrd": "000",
@@ -3658,7 +3531,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T12:00:00+09:00",
-      "_hours_remaining": 192.4
+      "_hours_remaining": 168.1
     },
     {
       "bidNtceNo": "R26BK01802851",
@@ -3689,7 +3562,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T15:00:00+09:00",
-      "_hours_remaining": 195.4
+      "_hours_remaining": 171.1
     },
     {
       "bidNtceNo": "R26BK01809233",
@@ -3720,7 +3593,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T17:00:00+09:00",
-      "_hours_remaining": 197.4
+      "_hours_remaining": 173.1
     },
     {
       "bidNtceNo": "R26BK01808661",
@@ -3751,7 +3624,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-16T18:00:00+09:00",
-      "_hours_remaining": 198.4
+      "_hours_remaining": 174.1
     },
     {
       "bidNtceNo": "R26BK01805278",
@@ -3782,7 +3655,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
-      "_hours_remaining": 214.4
+      "_hours_remaining": 190.1
     },
     {
       "bidNtceNo": "R26BK01807994",
@@ -3813,7 +3686,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
-      "_hours_remaining": 214.4
+      "_hours_remaining": 190.1
     },
     {
       "bidNtceNo": "R26BK01809152",
@@ -3844,7 +3717,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
-      "_hours_remaining": 214.4
+      "_hours_remaining": 190.1
     },
     {
       "bidNtceNo": "R26BK01807948",
@@ -3875,7 +3748,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
-      "_hours_remaining": 214.4
+      "_hours_remaining": 190.1
     },
     {
       "bidNtceNo": "R26BK01814981",
@@ -3908,7 +3781,69 @@
         "디자인"
       ],
       "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
-      "_hours_remaining": 214.4
+      "_hours_remaining": 190.1
+    },
+    {
+      "bidNtceNo": "R26BK01815723",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026년 춘천시 상수관로 세척(맥동류) 용역(SS-12블록)",
+      "ntceInsttNm": "강원특별자치도 춘천시 상하수도사업본부",
+      "ntceInsttCd": "4181037",
+      "dminsttNm": "강원특별자치도 춘천시 상하수도사업본부",
+      "dminsttCd": "4181037",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 09:18:19",
+      "bidBeginDt": "2026-11-13 09:00:00",
+      "bidClseDt": "2026-11-17 10:00:00",
+      "opengDt": "2026-11-17 11:00:00",
+      "asignBdgtAmt": "113310000",
+      "presmptPrce": "103009090",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01815723&bidPbancOrd=000",
+      "ntceInsttOfclNm": "백지운",
+      "ntceInsttOfclTelNo": "033-250-4725",
+      "sucsfbidMthdNm": "적격심사제-추정가격이 2억원 미만 1억원 이상인 P.Q비대상 기술용역의 평가기준",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
+      "_hours_remaining": 190.1
+    },
+    {
+      "bidNtceNo": "R26BK01816429",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "강릉해양경찰서 소속 파출소(2개소) 내진성능평가 용역",
+      "ntceInsttNm": "해양경찰청 동해지방해양경찰청 강릉해양경찰서",
+      "ntceInsttCd": "1532865",
+      "dminsttNm": "해양경찰청 동해지방해양경찰청 강릉해양경찰서",
+      "dminsttCd": "1532865",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 10:37:46",
+      "bidBeginDt": "2026-11-10 10:00:00",
+      "bidClseDt": "2026-11-17 10:00:00",
+      "opengDt": "2026-11-17 11:00:00",
+      "asignBdgtAmt": "29000000",
+      "presmptPrce": "26363636",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816429&bidPbancOrd=000",
+      "ntceInsttOfclNm": "전영원",
+      "ntceInsttOfclTelNo": "033-924-2217",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강릉",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-17T10:00:00+09:00",
+      "_hours_remaining": 190.1
     },
     {
       "bidNtceNo": "R26BK01792739",
@@ -3940,7 +3875,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-11-17T14:00:00+09:00",
-      "_hours_remaining": 218.4
+      "_hours_remaining": 194.1
     },
     {
       "bidNtceNo": "R26BK01807217",
@@ -3971,7 +3906,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-17T14:00:00+09:00",
-      "_hours_remaining": 218.4
+      "_hours_remaining": 194.1
     },
     {
       "bidNtceNo": "R26BK01810385",
@@ -4004,7 +3939,38 @@
         "홈페이지"
       ],
       "_bidClseDt_iso": "2026-11-18T10:00:00+09:00",
-      "_hours_remaining": 238.4
+      "_hours_remaining": 214.1
+    },
+    {
+      "bidNtceNo": "R26BK01806721",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "강원특별자치도 위.수탁시설(설상경기장,야외공연장) 시설관리용역",
+      "ntceInsttNm": "강원개발공사",
+      "ntceInsttCd": "Z003697",
+      "dminsttNm": "강원개발공사",
+      "dminsttCd": "Z003697",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 09:09:10",
+      "bidBeginDt": "2026-11-09 10:00:00",
+      "bidClseDt": "2026-11-18 10:00:00",
+      "opengDt": "2026-11-18 11:00:00",
+      "asignBdgtAmt": "1334530000",
+      "presmptPrce": "1213209090",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01806721&bidPbancOrd=000",
+      "ntceInsttOfclNm": "장석규",
+      "ntceInsttOfclTelNo": "033-259-6136",
+      "sucsfbidMthdNm": "제한적최저가(낙찰하한율)-제한적최저가(낙찰하한율)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-18T10:00:00+09:00",
+      "_hours_remaining": 214.1
     },
     {
       "bidNtceNo": "R26BK01768165",
@@ -4035,7 +4001,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-19T10:00:00+09:00",
-      "_hours_remaining": 262.4
+      "_hours_remaining": 238.1
     },
     {
       "bidNtceNo": "R26BK01791242",
@@ -4066,7 +4032,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-20T10:00:00+09:00",
-      "_hours_remaining": 286.4
+      "_hours_remaining": 262.1
     },
     {
       "bidNtceNo": "R26BK01816101",
@@ -4094,10 +4060,72 @@
       "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정(SW사업)",
       "regionMatch": "강원",
       "first_seen_date": "2026-11-08",
-      "last_seen_date": "2026-11-08",
+      "last_seen_date": "2026-11-09",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-20T10:00:00+09:00",
-      "_hours_remaining": 286.4
+      "_hours_remaining": 262.1
+    },
+    {
+      "bidNtceNo": "R26BK01816605",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "청년도약부트캠프 AI 활용 웹/앱 개발(고급) 과정 실무·교양 운영 용역",
+      "ntceInsttNm": "강원대학교 산학협력단",
+      "ntceInsttCd": "Z010852",
+      "dminsttNm": "강원대학교 산학협력단",
+      "dminsttCd": "Z010852",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 10:46:41",
+      "bidBeginDt": "2026-11-16 11:00:00",
+      "bidClseDt": "2026-11-20 11:00:00",
+      "opengDt": "2026-12-04 12:00:00",
+      "asignBdgtAmt": "70000000",
+      "presmptPrce": "63636364",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816605&bidPbancOrd=000",
+      "ntceInsttOfclNm": "조성실",
+      "ntceInsttOfclTelNo": "033-250-8939",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-20T11:00:00+09:00",
+      "_hours_remaining": 263.1
+    },
+    {
+      "bidNtceNo": "R26BK01811973",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2027년 상반기 정부광고4팀(광주·전라·제주·강원권역) 온라인 협력업체 선정",
+      "ntceInsttNm": "한국언론진흥재단",
+      "ntceInsttCd": "B552648",
+      "dminsttNm": "한국언론진흥재단",
+      "dminsttCd": "B552648",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 10:51:25",
+      "bidBeginDt": "2026-11-09 11:00:00",
+      "bidClseDt": "2026-11-20 11:00:00",
+      "opengDt": "2026-11-20 12:00:00",
+      "asignBdgtAmt": "2452000000",
+      "presmptPrce": "2229090909",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01811973&bidPbancOrd=000",
+      "ntceInsttOfclNm": "원상숙",
+      "ntceInsttOfclTelNo": "02-2001-7725",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-20T11:00:00+09:00",
+      "_hours_remaining": 263.1
     },
     {
       "bidNtceNo": "R26BK01749885",
@@ -4128,7 +4156,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-24T10:00:00+09:00",
-      "_hours_remaining": 382.4
+      "_hours_remaining": 358.1
     },
     {
       "bidNtceNo": "R26BK01806430",
@@ -4159,7 +4187,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-24T18:00:00+09:00",
-      "_hours_remaining": 390.4
+      "_hours_remaining": 366.1
     },
     {
       "bidNtceNo": "R26BK01807605",
@@ -4190,7 +4218,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-24T18:00:00+09:00",
-      "_hours_remaining": 390.4
+      "_hours_remaining": 366.1
     },
     {
       "bidNtceNo": "R26BK01789935",
@@ -4221,7 +4249,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-25T10:00:00+09:00",
-      "_hours_remaining": 406.4
+      "_hours_remaining": 382.1
     },
     {
       "bidNtceNo": "R26BK01799306",
@@ -4252,7 +4280,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-25T10:00:00+09:00",
-      "_hours_remaining": 406.4
+      "_hours_remaining": 382.1
     },
     {
       "bidNtceNo": "R26BK01797342",
@@ -4283,7 +4311,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-25T10:00:00+09:00",
-      "_hours_remaining": 406.4
+      "_hours_remaining": 382.1
     },
     {
       "bidNtceNo": "R26BK01808787",
@@ -4314,7 +4342,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-25T10:00:00+09:00",
-      "_hours_remaining": 406.4
+      "_hours_remaining": 382.1
     },
     {
       "bidNtceNo": "R26BK01812432",
@@ -4345,7 +4373,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-26T12:00:00+09:00",
-      "_hours_remaining": 432.4
+      "_hours_remaining": 408.1
     },
     {
       "bidNtceNo": "R26BK01807020",
@@ -4376,7 +4404,38 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-12-01T10:00:00+09:00",
-      "_hours_remaining": 550.4
+      "_hours_remaining": 526.1
+    },
+    {
+      "bidNtceNo": "R26BK01799203",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2027년 강원환경본부 대기환경측정망 운영·관리 용역",
+      "ntceInsttNm": "조달청",
+      "ntceInsttCd": "1230000",
+      "dminsttNm": "한국환경공단 강원환경본부",
+      "dminsttCd": "Z042470",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "Y",
+      "bidNtceDt": "2026-11-09 10:30:56",
+      "bidBeginDt": "2026-11-27 10:00:00",
+      "bidClseDt": "2026-12-01 10:00:00",
+      "opengDt": "2026-12-01 11:00:00",
+      "asignBdgtAmt": "605454400",
+      "presmptPrce": "545981818",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01799203&bidPbancOrd=000",
+      "ntceInsttOfclNm": "이동은",
+      "ntceInsttOfclTelNo": "070-4056-6133",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-12-01T10:00:00+09:00",
+      "_hours_remaining": 526.1
     },
     {
       "bidNtceNo": "R26BK01813348",
@@ -4407,7 +4466,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-12-02T10:00:00+09:00",
-      "_hours_remaining": 574.4
+      "_hours_remaining": 550.1
     },
     {
       "bidNtceNo": "R26BK01793035",
@@ -5535,9 +5594,384 @@
       "matched_keywords": [],
       "_bidClseDt_iso": "",
       "_hours_remaining": null
+    },
+    {
+      "bidNtceNo": "R26BK01816473",
+      "bidNtceOrd": "001",
+      "bidNtceNm": "제9회 철원군 청소년 국내영어캠프 위탁용역",
+      "ntceInsttNm": "재단법인 철원장학회",
+      "ntceInsttCd": "Z050419",
+      "dminsttNm": "재단법인 철원장학회",
+      "dminsttCd": "Z050419",
+      "bidMethdNm": "직찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "변경공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 11:50:20",
+      "bidBeginDt": "",
+      "bidClseDt": "",
+      "opengDt": "2026-11-30 18:00:00",
+      "asignBdgtAmt": "264920000",
+      "presmptPrce": "240836364",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816473&bidPbancOrd=001",
+      "ntceInsttOfclNm": "김희연",
+      "ntceInsttOfclTelNo": "033-450-5361",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "철원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "",
+      "_hours_remaining": null
+    },
+    {
+      "bidNtceNo": "R26BK01816403",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "속초 복합교육체육센터 건립사업 설계공모",
+      "ntceInsttNm": "강원특별자치도 속초시",
+      "ntceInsttCd": "4231000",
+      "dminsttNm": "강원특별자치도 속초시",
+      "dminsttCd": "4231000",
+      "bidMethdNm": "직찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-09 09:48:37",
+      "bidBeginDt": "",
+      "bidClseDt": "",
+      "opengDt": "2027-01-29 17:00:00",
+      "asignBdgtAmt": "1467878000",
+      "presmptPrce": "1334434545",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01816403&bidPbancOrd=000",
+      "ntceInsttOfclNm": "오유진",
+      "ntceInsttOfclTelNo": "033-639-1572",
+      "sucsfbidMthdNm": "설계공모-일반설계공모",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-09",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "",
+      "_hours_remaining": null
     }
   ],
   "closed": [
+    {
+      "bidNtceNo": "R26BK01786729",
+      "bidNtceOrd": "001",
+      "bidNtceNm": "[앵커사업 1-2 원주] 인프라 관리 디지털트윈 기반 MR 플랫폼 설계 및 개발",
+      "ntceInsttNm": "한라대학교",
+      "ntceInsttCd": "7003629",
+      "dminsttNm": "한라대학교",
+      "dminsttCd": "7003629",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "변경공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-10-26 17:29:25",
+      "bidBeginDt": "2026-10-26 18:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "52000000",
+      "presmptPrce": "47272727",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01786729&bidPbancOrd=001",
+      "ntceInsttOfclNm": "김한슬",
+      "ntceInsttOfclTelNo": "7601169",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "원주",
+      "first_seen_date": "2026-10-27",
+      "last_seen_date": "2026-10-28",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01792747",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "강원LRS공유대학 운영체계 고도화 연구 용역",
+      "ntceInsttNm": "강원대학교 산학협력단",
+      "ntceInsttCd": "Z010852",
+      "dminsttNm": "강원대학교 산학협력단",
+      "dminsttCd": "Z010852",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-10-27 09:53:33",
+      "bidBeginDt": "2026-11-03 10:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "99500000",
+      "presmptPrce": "90454545",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01792747&bidPbancOrd=000",
+      "ntceInsttOfclNm": "김달샘",
+      "ntceInsttOfclTelNo": "033-250-7547",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-10-27",
+      "last_seen_date": "2026-10-28",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01797502",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026년 보건의료 선진제도 학습을 위한 해외 우수기관 단기연수 용역",
+      "ntceInsttNm": "건강보험심사평가원",
+      "ntceInsttCd": "B551182",
+      "dminsttNm": "건강보험심사평가원",
+      "dminsttCd": "B551182",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-10-29 15:31:26",
+      "bidBeginDt": "2026-10-29 20:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "225146210",
+      "presmptPrce": "204678373",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01797502&bidPbancOrd=000",
+      "ntceInsttOfclNm": "전경화",
+      "ntceInsttOfclTelNo": "033-739-2618",
+      "sucsfbidMthdNm": "협상에의한계약-협상에 의한 낙찰자 결정",
+      "regionMatch": "건강보험심사평가원",
+      "first_seen_date": "2026-10-30",
+      "last_seen_date": "2026-10-30",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01803090",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026~2027 겨울철 도로제설작업용 장비(덤프트럭) 임차용역",
+      "ntceInsttNm": "강원특별자치도 고성군",
+      "ntceInsttCd": "4341000",
+      "dminsttNm": "강원특별자치도 고성군",
+      "dminsttCd": "4341000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-02 14:52:07",
+      "bidBeginDt": "2026-11-02 18:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "31617000",
+      "presmptPrce": "28742727",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803090&bidPbancOrd=000",
+      "ntceInsttOfclNm": "신선영",
+      "ntceInsttOfclTelNo": "033-680-3743",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-03",
+      "last_seen_date": "2026-11-04",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01803306",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026~2027 겨울철 도로제설작업용 장비(굴삭기) 임차용역",
+      "ntceInsttNm": "강원특별자치도 고성군",
+      "ntceInsttCd": "4341000",
+      "dminsttNm": "강원특별자치도 고성군",
+      "dminsttCd": "4341000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-02 14:53:09",
+      "bidBeginDt": "2026-11-02 18:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "32226000",
+      "presmptPrce": "29296364",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01803306&bidPbancOrd=000",
+      "ntceInsttOfclNm": "신선영",
+      "ntceInsttOfclTelNo": "033-680-3743",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-03",
+      "last_seen_date": "2026-11-04",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01804326",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "[긴급]2026~2027년 계양구 동절기 주요도로 제설작업 용역",
+      "ntceInsttNm": "인천광역시 계양구",
+      "ntceInsttCd": "3550000",
+      "dminsttNm": "인천광역시 계양구",
+      "dminsttCd": "3550000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "제한경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-02 18:12:19",
+      "bidBeginDt": "2026-11-03 10:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "389235000",
+      "presmptPrce": "353850000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804326&bidPbancOrd=000",
+      "ntceInsttOfclNm": "정지용",
+      "ntceInsttOfclTelNo": "032-450-5164",
+      "sucsfbidMthdNm": "적격심사제-관리규정외 수기심사(총점입력)",
+      "regionMatch": "양구",
+      "first_seen_date": "2026-11-03",
+      "last_seen_date": "2026-11-04",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01805736",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026년 어린이 보호구역 실태조사 및 개선계획 수립 용역",
+      "ntceInsttNm": "강원특별자치도 강릉시",
+      "ntceInsttCd": "4201000",
+      "dminsttNm": "강원특별자치도 강릉시",
+      "dminsttCd": "4201000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-03 09:47:59",
+      "bidBeginDt": "2026-11-05 10:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "67900000",
+      "presmptPrce": "61727273",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805736&bidPbancOrd=000",
+      "ntceInsttOfclNm": "안다해",
+      "ntceInsttOfclTelNo": "033-640-5161",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-03",
+      "last_seen_date": "2026-11-04",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01805990",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "군도5호선 도시관리계획 결정(변경)및 실시설계 용역",
+      "ntceInsttNm": "강원특별자치도 삼척시",
+      "ntceInsttCd": "4241000",
+      "dminsttNm": "강원특별자치도 삼척시",
+      "dminsttCd": "4241000",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-03 10:26:44",
+      "bidBeginDt": "2026-11-05 10:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "66990000",
+      "presmptPrce": "60900000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01805990&bidPbancOrd=000",
+      "ntceInsttOfclNm": "이병민",
+      "ntceInsttOfclTelNo": "033-570-3272",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-03",
+      "last_seen_date": "2026-11-04",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01807406",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "연곡3,4처리분구 하수관로 정비사업 기본 및 실시설계용역(가격입찰 후 PQ)",
+      "ntceInsttNm": "강원특별자치도 강릉시 상하수도사업소",
+      "ntceInsttCd": "4201031",
+      "dminsttNm": "강원특별자치도 강릉시 상하수도사업소",
+      "dminsttCd": "4201031",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "일반경쟁",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "기술용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-03 19:00:21",
+      "bidBeginDt": "2026-11-05 10:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "1080800000",
+      "presmptPrce": "982545455",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807406&bidPbancOrd=000",
+      "ntceInsttOfclNm": "지인숙",
+      "ntceInsttOfclTelNo": "033-640-5484",
+      "sucsfbidMthdNm": "적격심사제-추정가격이 10억원 미만 5억원 이상인 P.Q 대상 기술용역의 평가기준(사후PQ)",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-04",
+      "last_seen_date": "2026-11-05",
+      "matched_keywords": [],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
+    {
+      "bidNtceNo": "R26BK01815492",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "2026 대한민국 정부박람회 강원특별자치도 전시관 설치운영 용역",
+      "ntceInsttNm": "강원특별자치도",
+      "ntceInsttCd": "6530000",
+      "dminsttNm": "강원특별자치도",
+      "dminsttCd": "6530000",
+      "bidMethdNm": "전자시담",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-06 15:52:31",
+      "bidBeginDt": "2026-11-09 09:00:00",
+      "bidClseDt": "2026-11-09 10:00:00",
+      "opengDt": "2026-11-09 11:00:00",
+      "asignBdgtAmt": "40000000",
+      "presmptPrce": "36363636",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01815492&bidPbancOrd=000",
+      "ntceInsttOfclNm": "이종묵",
+      "ntceInsttOfclTelNo": "033-249-2890",
+      "sucsfbidMthdNm": "수의시담-수의시담",
+      "regionMatch": "강원",
+      "first_seen_date": "2026-11-07",
+      "last_seen_date": "2026-11-08",
+      "matched_keywords": [
+        "전시",
+        "박람회"
+      ],
+      "_bidClseDt_iso": "2026-11-09T10:00:00+09:00",
+      "_hours_remaining": -1.9
+    },
     {
       "bidNtceNo": "R26BK01792140",
       "bidNtceOrd": "000",
@@ -5568,7 +6002,7 @@
         "의료기기"
       ],
       "_bidClseDt_iso": "2026-11-06T18:00:00+09:00",
-      "_hours_remaining": -41.6
+      "_hours_remaining": -65.9
     },
     {
       "bidNtceNo": "R26BK01778953",
@@ -5599,7 +6033,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T16:30:00+09:00",
-      "_hours_remaining": -43.1
+      "_hours_remaining": -67.4
     },
     {
       "bidNtceNo": "R26BK01804467",
@@ -5630,7 +6064,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T16:00:00+09:00",
-      "_hours_remaining": -43.6
+      "_hours_remaining": -67.9
     },
     {
       "bidNtceNo": "R26BK01812878",
@@ -5661,7 +6095,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T15:20:00+09:00",
-      "_hours_remaining": -44.3
+      "_hours_remaining": -68.6
     },
     {
       "bidNtceNo": "R26BK01802902",
@@ -5692,7 +6126,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T15:00:00+09:00",
-      "_hours_remaining": -44.6
+      "_hours_remaining": -68.9
     },
     {
       "bidNtceNo": "R26BK01802681",
@@ -5723,7 +6157,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T15:00:00+09:00",
-      "_hours_remaining": -44.6
+      "_hours_remaining": -68.9
     },
     {
       "bidNtceNo": "R26BK01802823",
@@ -5754,7 +6188,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T15:00:00+09:00",
-      "_hours_remaining": -44.6
+      "_hours_remaining": -68.9
     },
     {
       "bidNtceNo": "R26BK01802969",
@@ -5785,7 +6219,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T15:00:00+09:00",
-      "_hours_remaining": -44.6
+      "_hours_remaining": -68.9
     },
     {
       "bidNtceNo": "R26BK01802860",
@@ -5816,7 +6250,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T14:00:00+09:00",
-      "_hours_remaining": -45.6
+      "_hours_remaining": -69.9
     },
     {
       "bidNtceNo": "R26BK01813317",
@@ -5847,7 +6281,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T13:10:00+09:00",
-      "_hours_remaining": -46.5
+      "_hours_remaining": -70.7
     },
     {
       "bidNtceNo": "R26BK01803719",
@@ -5878,7 +6312,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T12:00:00+09:00",
-      "_hours_remaining": -47.6
+      "_hours_remaining": -71.9
     },
     {
       "bidNtceNo": "R26BK01789980",
@@ -5909,7 +6343,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T11:00:00+09:00",
-      "_hours_remaining": -48.6
+      "_hours_remaining": -72.9
     },
     {
       "bidNtceNo": "R26BK01795407",
@@ -5940,7 +6374,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T11:00:00+09:00",
-      "_hours_remaining": -48.6
+      "_hours_remaining": -72.9
     },
     {
       "bidNtceNo": "R26BK01791560",
@@ -5972,7 +6406,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01790696",
@@ -6003,7 +6437,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01798650",
@@ -6034,7 +6468,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01799317",
@@ -6065,7 +6499,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01799052",
@@ -6096,7 +6530,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01796868",
@@ -6127,7 +6561,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01797328",
@@ -6158,7 +6592,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01802584",
@@ -6189,7 +6623,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804293",
@@ -6220,7 +6654,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804366",
@@ -6251,7 +6685,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804387",
@@ -6282,7 +6716,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804082",
@@ -6313,7 +6747,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804243",
@@ -6344,7 +6778,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804290",
@@ -6375,7 +6809,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01804404",
@@ -6406,7 +6840,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01803796",
@@ -6437,7 +6871,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01805231",
@@ -6468,7 +6902,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01805355",
@@ -6499,7 +6933,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01801653",
@@ -6530,7 +6964,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-06T10:00:00+09:00",
-      "_hours_remaining": -49.6
+      "_hours_remaining": -73.9
     },
     {
       "bidNtceNo": "R26BK01812818",
@@ -6561,7 +6995,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T16:30:00+09:00",
-      "_hours_remaining": -67.1
+      "_hours_remaining": -91.4
     },
     {
       "bidNtceNo": "R26BK01808880",
@@ -6592,7 +7026,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T16:00:00+09:00",
-      "_hours_remaining": -67.6
+      "_hours_remaining": -91.9
     },
     {
       "bidNtceNo": "R26BK01799780",
@@ -6623,7 +7057,7 @@
       "last_seen_date": "2026-11-07",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T15:00:00+09:00",
-      "_hours_remaining": -68.6
+      "_hours_remaining": -92.9
     },
     {
       "bidNtceNo": "R26BK01798214",
@@ -6654,7 +7088,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T14:00:00+09:00",
-      "_hours_remaining": -69.6
+      "_hours_remaining": -93.9
     },
     {
       "bidNtceNo": "R26BK01808930",
@@ -6685,7 +7119,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T14:00:00+09:00",
-      "_hours_remaining": -69.6
+      "_hours_remaining": -93.9
     },
     {
       "bidNtceNo": "R26BK01808836",
@@ -6716,7 +7150,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T11:00:00+09:00",
-      "_hours_remaining": -72.6
+      "_hours_remaining": -96.9
     },
     {
       "bidNtceNo": "R26BK01792611",
@@ -6747,7 +7181,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01792391",
@@ -6778,7 +7212,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01792581",
@@ -6809,7 +7243,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01796188",
@@ -6840,7 +7274,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01800796",
@@ -6871,7 +7305,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01792359",
@@ -6902,7 +7336,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-05T10:00:00+09:00",
-      "_hours_remaining": -73.6
+      "_hours_remaining": -97.9
     },
     {
       "bidNtceNo": "R26BK01795663",
@@ -6933,7 +7367,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T16:00:00+09:00",
-      "_hours_remaining": -91.6
+      "_hours_remaining": -115.9
     },
     {
       "bidNtceNo": "R26BK01809811",
@@ -6964,7 +7398,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T16:00:00+09:00",
-      "_hours_remaining": -91.6
+      "_hours_remaining": -115.9
     },
     {
       "bidNtceNo": "R26BK01805822",
@@ -6995,7 +7429,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T16:00:00+09:00",
-      "_hours_remaining": -91.6
+      "_hours_remaining": -115.9
     },
     {
       "bidNtceNo": "R26BK01809294",
@@ -7026,7 +7460,7 @@
       "last_seen_date": "2026-11-06",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T16:00:00+09:00",
-      "_hours_remaining": -91.6
+      "_hours_remaining": -115.9
     },
     {
       "bidNtceNo": "R26BK01793060",
@@ -7057,7 +7491,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T12:00:00+09:00",
-      "_hours_remaining": -95.6
+      "_hours_remaining": -119.9
     },
     {
       "bidNtceNo": "R26BK01799894",
@@ -7088,7 +7522,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T12:00:00+09:00",
-      "_hours_remaining": -95.6
+      "_hours_remaining": -119.9
     },
     {
       "bidNtceNo": "R26BK01799933",
@@ -7119,7 +7553,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T12:00:00+09:00",
-      "_hours_remaining": -95.6
+      "_hours_remaining": -119.9
     },
     {
       "bidNtceNo": "R26BK01799979",
@@ -7150,7 +7584,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T12:00:00+09:00",
-      "_hours_remaining": -95.6
+      "_hours_remaining": -119.9
     },
     {
       "bidNtceNo": "R26BK01804191",
@@ -7181,7 +7615,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T11:30:00+09:00",
-      "_hours_remaining": -96.1
+      "_hours_remaining": -120.4
     },
     {
       "bidNtceNo": "R26BK01797273",
@@ -7212,7 +7646,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T11:00:00+09:00",
-      "_hours_remaining": -96.6
+      "_hours_remaining": -120.9
     },
     {
       "bidNtceNo": "R26BK01806369",
@@ -7243,7 +7677,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T11:00:00+09:00",
-      "_hours_remaining": -96.6
+      "_hours_remaining": -120.9
     },
     {
       "bidNtceNo": "R26BK01789638",
@@ -7274,7 +7708,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01789991",
@@ -7305,7 +7739,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01793790",
@@ -7336,7 +7770,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01793919",
@@ -7367,7 +7801,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01793974",
@@ -7398,7 +7832,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01794011",
@@ -7429,7 +7863,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01794417",
@@ -7460,7 +7894,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01797627",
@@ -7491,7 +7925,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01797640",
@@ -7522,7 +7956,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01797644",
@@ -7553,7 +7987,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01797647",
@@ -7584,7 +8018,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01799314",
@@ -7615,7 +8049,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798910",
@@ -7646,7 +8080,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798865",
@@ -7677,7 +8111,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798770",
@@ -7708,7 +8142,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798735",
@@ -7739,7 +8173,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798707",
@@ -7770,7 +8204,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798668",
@@ -7801,7 +8235,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798630",
@@ -7832,7 +8266,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798532",
@@ -7863,7 +8297,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798507",
@@ -7894,7 +8328,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798488",
@@ -7925,7 +8359,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798441",
@@ -7956,7 +8390,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798314",
@@ -7987,7 +8421,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798256",
@@ -8018,7 +8452,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798165",
@@ -8049,7 +8483,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798115",
@@ -8080,7 +8514,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01797937",
@@ -8111,7 +8545,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01800057",
@@ -8142,7 +8576,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798495",
@@ -8173,7 +8607,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01798734",
@@ -8204,7 +8638,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-04T10:00:00+09:00",
-      "_hours_remaining": -97.6
+      "_hours_remaining": -121.9
     },
     {
       "bidNtceNo": "R26BK01807061",
@@ -8235,7 +8669,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T17:30:00+09:00",
-      "_hours_remaining": -114.1
+      "_hours_remaining": -138.4
     },
     {
       "bidNtceNo": "R26BK01791777",
@@ -8266,7 +8700,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T17:00:00+09:00",
-      "_hours_remaining": -114.6
+      "_hours_remaining": -138.9
     },
     {
       "bidNtceNo": "R26BK01807109",
@@ -8297,7 +8731,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T17:00:00+09:00",
-      "_hours_remaining": -114.6
+      "_hours_remaining": -138.9
     },
     {
       "bidNtceNo": "R26BK01807087",
@@ -8328,7 +8762,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T16:30:00+09:00",
-      "_hours_remaining": -115.1
+      "_hours_remaining": -139.4
     },
     {
       "bidNtceNo": "R26BK01791493",
@@ -8359,7 +8793,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T16:00:00+09:00",
-      "_hours_remaining": -115.6
+      "_hours_remaining": -139.9
     },
     {
       "bidNtceNo": "R26BK01805785",
@@ -8390,7 +8824,7 @@
       "last_seen_date": "2026-11-05",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T15:30:00+09:00",
-      "_hours_remaining": -116.1
+      "_hours_remaining": -140.4
     },
     {
       "bidNtceNo": "R26BK01790558",
@@ -8421,7 +8855,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T14:00:00+09:00",
-      "_hours_remaining": -117.6
+      "_hours_remaining": -141.9
     },
     {
       "bidNtceNo": "R26BK01803297",
@@ -8452,7 +8886,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T12:00:00+09:00",
-      "_hours_remaining": -119.6
+      "_hours_remaining": -143.9
     },
     {
       "bidNtceNo": "R26BK01805970",
@@ -8483,7 +8917,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T12:00:00+09:00",
-      "_hours_remaining": -119.6
+      "_hours_remaining": -143.9
     },
     {
       "bidNtceNo": "R26BK01794283",
@@ -8514,7 +8948,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01788784",
@@ -8545,7 +8979,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01788848",
@@ -8576,7 +9010,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01788874",
@@ -8607,7 +9041,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01795286",
@@ -8638,7 +9072,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01796330",
@@ -8669,7 +9103,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01805385",
@@ -8700,7 +9134,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T11:00:00+09:00",
-      "_hours_remaining": -120.6
+      "_hours_remaining": -144.9
     },
     {
       "bidNtceNo": "R26BK01776729",
@@ -8731,7 +9165,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01789791",
@@ -8762,7 +9196,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01789793",
@@ -8793,7 +9227,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01790149",
@@ -8824,7 +9258,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01792201",
@@ -8855,7 +9289,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01792246",
@@ -8886,7 +9320,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01792259",
@@ -8917,7 +9351,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01792267",
@@ -8948,7 +9382,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01794347",
@@ -8979,7 +9413,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01794271",
@@ -9010,7 +9444,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01790610",
@@ -9041,7 +9475,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01791825",
@@ -9072,7 +9506,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01795391",
@@ -9103,7 +9537,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01791855",
@@ -9134,7 +9568,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01793771",
@@ -9165,7 +9599,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01797561",
@@ -9196,7 +9630,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01795313",
@@ -9227,7 +9661,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01788295",
@@ -9258,7 +9692,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01805268",
@@ -9289,7 +9723,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-03T10:00:00+09:00",
-      "_hours_remaining": -121.6
+      "_hours_remaining": -145.9
     },
     {
       "bidNtceNo": "R26BK01804413",
@@ -9320,7 +9754,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T16:30:00+09:00",
-      "_hours_remaining": -139.1
+      "_hours_remaining": -163.4
     },
     {
       "bidNtceNo": "R26BK01803920",
@@ -9351,7 +9785,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T15:30:00+09:00",
-      "_hours_remaining": -140.1
+      "_hours_remaining": -164.4
     },
     {
       "bidNtceNo": "R26BK01803662",
@@ -9382,7 +9816,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T15:00:00+09:00",
-      "_hours_remaining": -140.6
+      "_hours_remaining": -164.9
     },
     {
       "bidNtceNo": "R26BK01803879",
@@ -9413,7 +9847,7 @@
       "last_seen_date": "2026-11-04",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T15:00:00+09:00",
-      "_hours_remaining": -140.6
+      "_hours_remaining": -164.9
     },
     {
       "bidNtceNo": "R26BK01803296",
@@ -9444,7 +9878,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T14:00:00+09:00",
-      "_hours_remaining": -141.6
+      "_hours_remaining": -165.9
     },
     {
       "bidNtceNo": "R26BK01762068",
@@ -9475,7 +9909,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T12:00:00+09:00",
-      "_hours_remaining": -143.6
+      "_hours_remaining": -167.9
     },
     {
       "bidNtceNo": "R26BK01802575",
@@ -9506,7 +9940,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T12:00:00+09:00",
-      "_hours_remaining": -143.6
+      "_hours_remaining": -167.9
     },
     {
       "bidNtceNo": "R26BK01802610",
@@ -9537,7 +9971,7 @@
       "last_seen_date": "2026-11-03",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T12:00:00+09:00",
-      "_hours_remaining": -143.6
+      "_hours_remaining": -167.9
     },
     {
       "bidNtceNo": "R26BK01790658",
@@ -9568,7 +10002,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-11-02T10:00:00+09:00",
-      "_hours_remaining": -145.6
+      "_hours_remaining": -169.9
     },
     {
       "bidNtceNo": "R26BK01799932",
@@ -9599,7 +10033,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T14:00:00+09:00",
-      "_hours_remaining": -213.6
+      "_hours_remaining": -237.9
     },
     {
       "bidNtceNo": "R26BK01799948",
@@ -9630,7 +10064,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T12:00:00+09:00",
-      "_hours_remaining": -215.6
+      "_hours_remaining": -239.9
     },
     {
       "bidNtceNo": "R26BK01800560",
@@ -9661,7 +10095,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T12:00:00+09:00",
-      "_hours_remaining": -215.6
+      "_hours_remaining": -239.9
     },
     {
       "bidNtceNo": "R26BK01800882",
@@ -9692,7 +10126,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T12:00:00+09:00",
-      "_hours_remaining": -215.6
+      "_hours_remaining": -239.9
     },
     {
       "bidNtceNo": "R26BK01797796",
@@ -9723,7 +10157,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T11:00:00+09:00",
-      "_hours_remaining": -216.6
+      "_hours_remaining": -240.9
     },
     {
       "bidNtceNo": "R26BK01799853",
@@ -9754,7 +10188,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T11:00:00+09:00",
-      "_hours_remaining": -216.6
+      "_hours_remaining": -240.9
     },
     {
       "bidNtceNo": "R26BK01799897",
@@ -9785,7 +10219,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T11:00:00+09:00",
-      "_hours_remaining": -216.6
+      "_hours_remaining": -240.9
     },
     {
       "bidNtceNo": "R26BK01799914",
@@ -9816,7 +10250,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T11:00:00+09:00",
-      "_hours_remaining": -216.6
+      "_hours_remaining": -240.9
     },
     {
       "bidNtceNo": "R26BK01797925",
@@ -9847,7 +10281,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T11:00:00+09:00",
-      "_hours_remaining": -216.6
+      "_hours_remaining": -240.9
     },
     {
       "bidNtceNo": "R26BK01790235",
@@ -9878,7 +10312,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T10:00:00+09:00",
-      "_hours_remaining": -217.6
+      "_hours_remaining": -241.9
     },
     {
       "bidNtceNo": "R26BK01791583",
@@ -9909,7 +10343,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T10:00:00+09:00",
-      "_hours_remaining": -217.6
+      "_hours_remaining": -241.9
     },
     {
       "bidNtceNo": "R26BK01792108",
@@ -9940,7 +10374,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T10:00:00+09:00",
-      "_hours_remaining": -217.6
+      "_hours_remaining": -241.9
     },
     {
       "bidNtceNo": "R26BK01790799",
@@ -9971,7 +10405,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T10:00:00+09:00",
-      "_hours_remaining": -217.6
+      "_hours_remaining": -241.9
     },
     {
       "bidNtceNo": "R26BK01792250",
@@ -10002,7 +10436,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-30T10:00:00+09:00",
-      "_hours_remaining": -217.6
+      "_hours_remaining": -241.9
     },
     {
       "bidNtceNo": "R26BK01798157",
@@ -10033,7 +10467,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-29T18:00:00+09:00",
-      "_hours_remaining": -233.6
+      "_hours_remaining": -257.9
     },
     {
       "bidNtceNo": "R26BK01788998",
@@ -10064,7 +10498,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-29T16:00:00+09:00",
-      "_hours_remaining": -235.6
+      "_hours_remaining": -259.9
     },
     {
       "bidNtceNo": "R26BK01798741",
@@ -10095,7 +10529,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-29T14:30:00+09:00",
-      "_hours_remaining": -237.1
+      "_hours_remaining": -261.4
     },
     {
       "bidNtceNo": "R26BK01796826",
@@ -10126,7 +10560,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T18:00:00+09:00",
-      "_hours_remaining": -257.6
+      "_hours_remaining": -281.9
     },
     {
       "bidNtceNo": "R26BK01795998",
@@ -10157,7 +10591,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T16:30:00+09:00",
-      "_hours_remaining": -259.1
+      "_hours_remaining": -283.4
     },
     {
       "bidNtceNo": "R26BK01796278",
@@ -10188,7 +10622,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T16:00:00+09:00",
-      "_hours_remaining": -259.6
+      "_hours_remaining": -283.9
     },
     {
       "bidNtceNo": "R26BK01786549",
@@ -10219,7 +10653,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T16:00:00+09:00",
-      "_hours_remaining": -259.6
+      "_hours_remaining": -283.9
     },
     {
       "bidNtceNo": "R26BK01785800",
@@ -10250,7 +10684,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T16:00:00+09:00",
-      "_hours_remaining": -259.6
+      "_hours_remaining": -283.9
     },
     {
       "bidNtceNo": "R26BK01795128",
@@ -10281,7 +10715,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T15:00:00+09:00",
-      "_hours_remaining": -260.6
+      "_hours_remaining": -284.9
     },
     {
       "bidNtceNo": "R26BK01796300",
@@ -10312,7 +10746,7 @@
       "last_seen_date": "2026-10-30",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T15:00:00+09:00",
-      "_hours_remaining": -260.6
+      "_hours_remaining": -284.9
     },
     {
       "bidNtceNo": "R26BK01794662",
@@ -10343,7 +10777,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T11:00:00+09:00",
-      "_hours_remaining": -264.6
+      "_hours_remaining": -288.9
     },
     {
       "bidNtceNo": "R26BK01787376",
@@ -10374,7 +10808,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T10:00:00+09:00",
-      "_hours_remaining": -265.6
+      "_hours_remaining": -289.9
     },
     {
       "bidNtceNo": "R26BK01793618",
@@ -10405,7 +10839,7 @@
       "last_seen_date": "2026-10-29",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-28T10:00:00+09:00",
-      "_hours_remaining": -265.6
+      "_hours_remaining": -289.9
     },
     {
       "bidNtceNo": "R26BK01793030",
@@ -10436,7 +10870,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-27T17:00:00+09:00",
-      "_hours_remaining": -282.6
+      "_hours_remaining": -306.9
     },
     {
       "bidNtceNo": "R26BK01792824",
@@ -10469,7 +10903,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-10-27T16:00:00+09:00",
-      "_hours_remaining": -283.6
+      "_hours_remaining": -307.9
     },
     {
       "bidNtceNo": "R26BK01792695",
@@ -10500,7 +10934,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-27T15:00:00+09:00",
-      "_hours_remaining": -284.6
+      "_hours_remaining": -308.9
     },
     {
       "bidNtceNo": "R26BK01792121",
@@ -10531,7 +10965,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-27T14:00:00+09:00",
-      "_hours_remaining": -285.6
+      "_hours_remaining": -309.9
     },
     {
       "bidNtceNo": "R26BK01792106",
@@ -10563,7 +10997,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-10-27T12:00:00+09:00",
-      "_hours_remaining": -287.6
+      "_hours_remaining": -311.9
     },
     {
       "bidNtceNo": "R26BK01791951",
@@ -10596,7 +11030,7 @@
         "웹사이트"
       ],
       "_bidClseDt_iso": "2026-10-27T12:00:00+09:00",
-      "_hours_remaining": -287.6
+      "_hours_remaining": -311.9
     },
     {
       "bidNtceNo": "R26BK01791176",
@@ -10627,7 +11061,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-27T12:00:00+09:00",
-      "_hours_remaining": -287.6
+      "_hours_remaining": -311.9
     },
     {
       "bidNtceNo": "R26BK01790414",
@@ -10658,7 +11092,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-27T12:00:00+09:00",
-      "_hours_remaining": -287.6
+      "_hours_remaining": -311.9
     },
     {
       "bidNtceNo": "R26BK01792910",
@@ -10691,7 +11125,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-10-27T11:30:00+09:00",
-      "_hours_remaining": -288.1
+      "_hours_remaining": -312.4
     },
     {
       "bidNtceNo": "R26BK01790296",
@@ -10723,7 +11157,7 @@
         "전시"
       ],
       "_bidClseDt_iso": "2026-10-27T11:30:00+09:00",
-      "_hours_remaining": -288.1
+      "_hours_remaining": -312.4
     },
     {
       "bidNtceNo": "R26BK01791699",
@@ -10754,7 +11188,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T17:30:00+09:00",
-      "_hours_remaining": -306.1
+      "_hours_remaining": -330.4
     },
     {
       "bidNtceNo": "R26BK01790809",
@@ -10785,7 +11219,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T17:00:00+09:00",
-      "_hours_remaining": -306.6
+      "_hours_remaining": -330.9
     },
     {
       "bidNtceNo": "R26BK01790763",
@@ -10816,7 +11250,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T16:40:00+09:00",
-      "_hours_remaining": -307.0
+      "_hours_remaining": -331.2
     },
     {
       "bidNtceNo": "R26BK01791187",
@@ -10847,7 +11281,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T16:00:00+09:00",
-      "_hours_remaining": -307.6
+      "_hours_remaining": -331.9
     },
     {
       "bidNtceNo": "R26BK01791223",
@@ -10878,7 +11312,7 @@
       "last_seen_date": "2026-10-28",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T16:00:00+09:00",
-      "_hours_remaining": -307.6
+      "_hours_remaining": -331.9
     },
     {
       "bidNtceNo": "R26BK01790068",
@@ -10909,7 +11343,7 @@
       "last_seen_date": "2026-10-27",
       "matched_keywords": [],
       "_bidClseDt_iso": "2026-10-26T10:30:00+09:00",
-      "_hours_remaining": -313.1
+      "_hours_remaining": -337.4
     },
     {
       "bidNtceNo": "R26BK01759178",
@@ -10942,7 +11376,7 @@
         "부스"
       ],
       "_bidClseDt_iso": "2026-10-22T14:00:00+09:00",
-      "_hours_remaining": -405.6
+      "_hours_remaining": -429.9
     }
   ]
 }
