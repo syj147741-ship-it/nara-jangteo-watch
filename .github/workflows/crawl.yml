@@ -3,7 +3,7 @@ name: 나라장터 용역 공고 수집
 on:
   schedule:
     # KST 매일 오전 8:30 = UTC 23:30 (전날)
-    - cron: "30 23 * * *"
+    - cron: "17 19 * * *"
   workflow_dispatch:
     inputs:
       days:
