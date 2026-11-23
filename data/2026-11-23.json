@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-11-23T09:19:31+09:00",
+  "date": "2026-11-23",
+  "count": 1,
+  "items": [
+    {
+      "bidNtceNo": "R26BK01847232",
+      "bidNtceOrd": "000",
+      "bidNtceNm": "국도31호선 도사2지구 병목지점 개선공사 폐기물처리용역",
+      "ntceInsttNm": "강원특별자치도 도로관리사업소 북부지소",
+      "ntceInsttCd": "6530361",
+      "dminsttNm": "강원특별자치도 도로관리사업소 북부지소",
+      "dminsttCd": "6530361",
+      "bidMethdNm": "전자입찰",
+      "cntrctCnclsMthdNm": "수의계약",
+      "ntceKindNm": "등록공고",
+      "bsnsDivNm": "",
+      "srvceDivNm": "일반용역",
+      "ppswGnrlSrvceYn": "N",
+      "bidNtceDt": "2026-11-23 09:10:04",
+      "bidBeginDt": "2026-11-23 16:00:00",
+      "bidClseDt": "2026-11-27 16:00:00",
+      "opengDt": "2026-11-27 17:00:00",
+      "asignBdgtAmt": "35145000",
+      "presmptPrce": "31950000",
+      "bidNtceDtlUrl": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01847232&bidPbancOrd=000",
+      "ntceInsttOfclNm": "정민지",
+      "ntceInsttOfclTelNo": "033-248-6965",
+      "sucsfbidMthdNm": "소액수의견적-소액수의견적(2인 이상 견적 제출)",
+      "regionMatch": "강원"
+    }
+  ]
+}
